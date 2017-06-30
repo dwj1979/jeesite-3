@@ -10,4 +10,6 @@
 
 3. 初始化数据库
 
-`mvn antrun:run -Pinit-db`
+`mvn antrun:run -Pinit-db`   
+
+4. Goodluck
